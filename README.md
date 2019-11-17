@@ -1,4 +1,8 @@
-## The Sample of Loading Vanilla Javascript Script Code in React JS
+# The Sample of Loading Vanilla Javascript Script Code in React JS
+
+This project shows how to combine vanilla javascript code and React JS components.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
