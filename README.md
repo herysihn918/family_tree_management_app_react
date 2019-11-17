@@ -1,6 +1,6 @@
 # The Sample of Loading Vanilla Javascript Script Code in React JS
 
-This project shows how to combine vanilla javascript code and React JS components.
+This project shows how to combine Vanilla Javascript Script Files and React JS components using 'react-load-scripts'.
 
 
 
